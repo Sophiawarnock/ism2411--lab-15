@@ -1,0 +1,8 @@
+order_date,product_category,region,unit_price,quantity_sold,customer_id
+2026-01-10,Widget A,South,,10.0,C001
+2026-01-11,Widget B,North,,5.0,C002
+2026-01-12,Widget C,South,,12.0,C003
+,Widget A,East,,8.0,C004
+2026-01-14,Widget B,West,,-10.0,C005
+2026-01-15,Widget C,South,-200.0,15.0,C006
+2026-01-16,Widget A,North,,,C007
